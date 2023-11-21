@@ -34,7 +34,7 @@
 </div>
 <div class="mb-3 mt-3">
 	<label for="txtmota" class="form-label">Mô tả</label>
-	<textarea id="txtmota" class="form-control" name="txtmota" placeholder="Nhập mô tả" required></textarea>
+	<textarea id="txtmota" rows="5" class="form-control" name="txtmota" placeholder="Nhập mô tả" required></textarea>
 </div>
 <div class="mb-3 mt-3">
 	<label>Hình ảnh</label>

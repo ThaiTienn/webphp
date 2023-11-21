@@ -1,2 +1,0 @@
-taikhoan: abc@abc.com
-matkhau: abc

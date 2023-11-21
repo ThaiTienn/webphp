@@ -16,7 +16,7 @@ else{   // mặc định là xem danh sách
 $dm = new DANHMUC();
 $idsua = 0;
 
-switch($action){    
+switch($action){
     case "xem":
         $danhmuc = $dm->laydanhmuc();       
         include("main.php");

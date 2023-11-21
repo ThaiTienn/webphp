@@ -1,6 +1,9 @@
 <?php include("../inc/top.php"); ?>
-<div>
-<h4>Trang quản trị</h4>
-<p>xin chào!</p>
-</div>
+
+<h4 class="text-info">Bảng điều khiển</h4> 
+<p>Đang cập nhật</p>
+
+
+
+
 <?php include("../inc/bottom.php"); ?>
